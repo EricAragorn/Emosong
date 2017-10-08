@@ -1,0 +1,26 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.oauthio.plugins.oauthio": {
+        "source": {
+            "type": "local",
+            "path": "/Users/Lteins/Desktop/Emosong/node_modules/oauth-phonegap"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-inappbrowser"
+        },
+        "is_top_level": false,
+        "variables": {}
+    }
+}
